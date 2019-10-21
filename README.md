@@ -10,7 +10,7 @@ Si bien PHP es nuestro principal objetivo, y es la base de todo lo que compartim
 
 ## Cómo funciona? 
 
-Usaremos github issues para hacer seguimiento de las charlas, ideas y propuestas que la comunidad para el meetup, se hace de esta manera para que todos podamos aportar, discutir y conocer el estado de la comunidad.
+Usaremos github issues para hacer seguimiento de las charlas, ideas y propuestas de la comunidad para el meetup, se hace de esta manera para que todos podamos aportar, discutir y conocer el estado de la comunidad.
 
 ## Qué puedo hacer?
 
