@@ -18,7 +18,7 @@ Usaremos github issues para hacer seguimiento de las charlas, ideas y propuestas
 
 Si quieres dar una charla, no dudes en postular tus ideas. 
 
-Primero necesitas [https://github.com/medellin-php/meetup/issues/new](crear un nuevo issue) en este repositorio, en la descripción del issue debes usar la opción **Ser el próximo speaker**, y agregar una breve descripción de los temas que vas a tratar en tu charla.
+Primero necesitas [crear un nuevo issue](https://github.com/medellin-php/meetup/issues/new) en este repositorio, en la descripción del issue debes usar la opción **Ser el próximo speaker**, y agregar una breve descripción de los temas que vas a tratar en tu charla.
 
 Cuando tu issue esté completada, nos encargaremos de hacer los comentarios relacionados y programar la fecha oportuna para que tu charla se haga.
 
